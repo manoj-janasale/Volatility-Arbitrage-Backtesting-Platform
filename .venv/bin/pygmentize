@@ -1,4 +1,4 @@
-#!/Users/manojjanasale/placement_projects/tradezapp_quant_project/.venv/bin/python3.11
+#!/Users/manojjanasale/placement_projects/Volatility-Arbitrage-Backtesting-Platform/.venv/bin/python3.11
 import sys
 from pygments.cmdline import main
 if __name__ == '__main__':

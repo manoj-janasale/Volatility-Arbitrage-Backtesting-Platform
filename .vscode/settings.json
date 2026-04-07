@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/Users/manojjanasale/placement_projects/Volatility-Arbitrage-Backtesting-Platform/.venv/bin/python",
+  "python.analysis.extraPaths": ["./src"]
+}
