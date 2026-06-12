@@ -136,7 +136,7 @@ pip install -r requirements.txt
    uvicorn api:app --reload
 
    Backend runs at:
-   http://localhost:8000
+   process.env.NEXT_PUBLIC_API_URL
 
 3. Run Frontend
    cd frontend/volatility-arbitrage-backtesting-platform
