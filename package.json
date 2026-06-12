@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "next": "^14.x.x",
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x",
     "framer-motion": "^12.38.0",
     "lucide-react": "^1.7.0",
     "recharts": "^3.8.1"
